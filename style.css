@@ -1,7 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
 div {
     display: flex;
     height: 400px;
-    width: 80vw;
+    width: 95vw;
 }
 
 h2 {
@@ -50,3 +55,4 @@ h2 {
 #Lightgreen{
     background-color:#09eab4 ;
 }
+
