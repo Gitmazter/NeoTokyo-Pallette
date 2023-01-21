@@ -1,0 +1,52 @@
+div {
+    display: flex;
+    height: 400px;
+    width: 80vw;
+}
+
+h2 {
+    height: 400px;
+    width: 300px;
+    font-family: monospace;
+}
+
+#AlmostWhite {
+    background-color:#c0c4cb ;
+}
+#Gray
+{
+    background-color:#4f4955 ;
+}
+#ExtraGray{
+    color: white;
+    background-color:#373655 ;
+}
+#Brown{
+    color: white;
+    background-color:#632517 ;
+}
+#Orange{
+    background-color:#F2A900 ;
+}
+#DarkBlue{
+    color: white;
+    background-color:#090e30 ;
+}
+#MediumLightBlue{
+    background-color:#7289DA;
+}
+#LightPurple{
+    background-color:#c29ee0 ;
+}
+#Mid-lightPurple{
+    background-color:#8c5ca4 ;
+}
+#Pink{
+    background-color:#f87d8b ;
+}
+#Red{
+    background-color:#e74c3c;
+}
+#Lightgreen{
+    background-color:#09eab4 ;
+}
