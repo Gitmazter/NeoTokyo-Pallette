@@ -15,45 +15,32 @@ h2 {
     font-family: monospace;
 }
 
-#AlmostWhite {
-    background-color:#c0c4cb ;
+#Zomp {
+    background-color: #1EA98F;
 }
-#Gray
-{
-    background-color:#4f4955 ;
+#BdazzledBlue{ 
+    background-color: #3C5C85;
 }
-#ExtraGray{
-    color: white;
-    background-color:#373655 ;
+#Purple {
+    background-color:  #6E0490;
 }
-#Brown{
-    color: white;
-    background-color:#632517 ;
+#RebeccaPurple {
+    background-color: #673C93;
 }
-#Orange{
-    background-color:#F2A900 ;
+#RebeccaMorePurple {
+    background-color: #6F2796;
 }
-#DarkBlue{
-    color: white;
-    background-color:#090e30 ;
+#KSUPurple {
+    background-color: #572987;
 }
-#MediumLightBlue{
-    background-color:#7289DA;
+#Indigo {
+    background-color: #460B7F;
 }
-#LightPurple{
-    background-color:#c29ee0 ;
+#PersianIndigo {
+    background-color: #3C1B6A;
 }
-#Mid-lightPurple{
-    background-color:#8c5ca4 ;
-}
-#Pink{
-    background-color:#f87d8b ;
-}
-#Red{
-    background-color:#e74c3c;
-}
-#Lightgreen{
-    background-color:#09eab4 ;
+#BlueViolet {
+    background-color:#570F84;
 }
 
 section {
