@@ -9,12 +9,6 @@ div {
     width: 98vw;
 }
 
-h2 {
-    height: 400px;
-    width: 300px;
-    font-family: monospace;
-}
-
 #Zomp {
     background-color: #1EA98F;
 }
@@ -41,6 +35,12 @@ h2 {
 }
 #BlueViolet {
     background-color:#570F84;
+}
+
+h2 {
+    height: 400px;
+    width: 300px;
+    font-family: monospace;
 }
 
 section {
